@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AprendaIngles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bichos">Bichos</string>
+    <string name="numeros">Números</string>
+    <string name="vogais">Vogais</string>
+    <string name="cao">Imagem cao</string>
+    <string name="gato">Imagem gato</string>
+    <string name="leao">Imagem leão</string>
+    <string name="macaco">Imagem macaco</string>
+    <string name="one">Imagem numero um</string>
+    <string name="two">imagem numero dois</string>
+    <string name="three">imagem numero tres</string>
+    <string name="four">imagem numero quatro</string>
+    <string name="five">imagem numero cinco</string>
+    <string name="six">imagem numero seis</string>
+    <string name="direitos">imagem direitos</string>
+</resources>
